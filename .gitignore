@@ -1,0 +1,27 @@
+# Ignore virtual environment directories
+oh1_venv/
+venv/
+env/
+*/venv/
+*/env/
+
+
+# Ignore Jupyter notebook extensions
+share/jupyter/nbextensions/
+*.js.map
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignore IDE config files (optional)
+.vscode/
+.idea/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore other temp files
+.DS_Store
+
