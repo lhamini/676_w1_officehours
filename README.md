@@ -13,7 +13,7 @@ This Streamlit application allows users to ask questions about YouTube videos by
 Before you begin, ensure you have met the following requirements:
 
 - Python 3.7 or higher
-- Ollama
+
 
 ## Installation
 
@@ -51,7 +51,6 @@ Before you begin, ensure you have met the following requirements:
 
 ## Troubleshooting
 
-- If you encounter any errors related to the OpenAI API, make sure you've correctly set up your API key in the configuration step.
 - Ensure that the YouTube URL is valid and the video is publicly accessible.
 - Some videos may not have transcripts available, which can cause the app to fail for those specific videos.
 
